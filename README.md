@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="YOUR_WEBSITE_LINK">
-    <img src="YOUR_BANNER_IMAGE_URL" alt="Your Org Name Banner" width="800">
-  </a>
-</p>
 
 <h1 align="center">
   👋 Welcome to ERS Digital
