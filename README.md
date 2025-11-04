@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_WEBSITE_LINK">
-    <img src="https://img.shields.io/badge/ers.my?style=for-the-badge&logo=website" alt="Website">
+  <a href="https://ers.my">
+    <img src="https://img.shields.io/badge/Website-YOUR_WEBSITE.com-blue?style=for-the-badge&logo=website" alt="Website">
   </a>
   &nbsp;
   <a href="YOUR_TWITTER_LINK">
@@ -32,30 +32,6 @@
   </a>
 </p>
 
----
-
-<h2 align="center">
-  📊 Our GitHub Stats
-</h2>
-
-<p align="center">
-  These stats auto-update and show our organization's combined activity.
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ERSDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt=" GitHub Stats" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img align="center" src="https://streak-stats.demolab.com/?user=ERSDev&theme=radical" alt="GitHub Streak" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERSDev&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
-</p>
 
 ---
 
@@ -83,5 +59,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bigquery/bigquery-original.svg" alt="BigQuery" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="40" height="40"/>
 </p>
 
