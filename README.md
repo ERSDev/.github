@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="YOUR_WEBSITE_LINK">
-    <img src="https://img.shields.io/badge/Website-YOUR_WEBSITE.com-blue?style=for-the-badge&logo=website" alt="Website">
+    <img src="https://img.shields.io/badge/ers.my?style=for-the-badge&logo=website" alt="Website">
   </a>
   &nbsp;
   <a href="YOUR_TWITTER_LINK">
@@ -44,16 +44,16 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_ORG_NAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="[Your Org Name]'s GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ERSDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt=" GitHub Stats" />
   </a>
   &nbsp;
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img align="center" src="https://streak-stats.demolab.com/?user=YOUR_ORG_NAME&theme=radical" alt="[Your Org Name]'s GitHub Streak" />
+    <img align="center" src="https://streak-stats.demolab.com/?user=ERSDev&theme=radical" alt="GitHub Streak" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ORG_NAME&layout=compact&theme=radical" alt="[Your Org Name]'s Top Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERSDev&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </p>
 
