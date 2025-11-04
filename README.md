@@ -35,13 +35,6 @@
 
 ---
 
-<h2 align="center">
-  ✨ Our Core Projects
-</h2>
-
-<p align="center">
-  Here are a few of our flagship projects you should check out!
-</p>
 
 <h2 align="center">
   💻 Technologies We Love
