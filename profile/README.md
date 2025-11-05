@@ -4,9 +4,9 @@
 </h1>
 
 <p align="center">
-  We are a team dedicated to build and accelerate the ERS.
-  <br />
-  This is our central hub for all our projects!
+  We build and maintain the systems that accelerate ERS Energy. 🚀
+<br/>
+  This is our team's central home for all projects, documentation, and collaboration.
 </p>
 
 <p align="center">
