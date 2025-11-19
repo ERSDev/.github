@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  👋 Welcome to ERS Digital
+  👋 Welcome to ERS Digital Department Repository.
 </h1>
 
 <p align="center">
