@@ -13,18 +13,6 @@
   <a href="https://ers.my">
     <img src="https://img.shields.io/badge/Website-ERS.my-blue?style=for-the-badge&logo=website" alt="Website">
   </a>
-  &nbsp;
-  <a href="YOUR_TWITTER_LINK">
-    <img src="https://img.shields.io/badge/Twitter-@ersenergy-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter">
-  </a>
-  &nbsp;
-  <a href="YOUR_DISCORD_INVITE_LINK">
-    <img src="https://img.shields.io/badge/Discord-Join_Chat-7289DA?style=for-the-badge&logo=discord" alt="Discord">
-  </a>
-  &nbsp;
-  <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-ersenergy-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
 </p>
 
 
